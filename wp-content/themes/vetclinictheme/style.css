@@ -1,0 +1,160 @@
+/*   
+Theme Name: vetclinictheme
+Theme URI: @Itachinight
+Description: qwerty
+Author: itachinight
+Author URI: @Itachinight
+*/
+.medicines_article {
+float: left;
+background: cyan;
+width: 500px;
+text-align: center;
+}
+.clear {
+	clear: both;
+}
+.services_article {
+	float: left;
+background: purple;
+width: 400px;
+}
+.animals_article
+{
+float: left;
+background: none;
+width: 600px;
+}
+.medicine_desc {
+text-align: center;
+background: orange;
+width: 70%;
+margin: 10px auto;
+}
+.services_single {
+text-align: center;
+float: center;
+background: gray;
+}
+.animals_single_article {
+text-align: left;
+float: left;
+background: none;
+}
+.animals_single_article h1{
+font: bold Helvetica;
+margin-left: 5%;
+}
+.animals_single_image img {
+	width: 500px;
+	height: 500px;
+}
+.animals_single_image{
+float: left;
+margin: 2%;
+}
+.animals_single_decsrtiption{
+	text-align: left;
+	font-size: 1.5em;
+}
+.animals_numeric_attributes table {
+	text-align: center;
+	border: 1px solid black;
+	font-size: 30px;
+	border-collapse: collapse;
+	margin:5px;
+}
+.animals_numeric_attributes td {
+	border: 1px solid black;
+	
+}
+
+
+.services_single_attributes {
+font: 26pt sans-serif;
+}
+.site-branding {
+    height: 300px;
+    max-width: 100%;
+    background: #ffffff url(https://www.articque.com/wp-content/themes/articque/images/backgrounds/header/art-header-main/full/r_atr-header-main.jpg) 0 0 repeat;
+}
+.site_menu{
+	font: bold italic 32pt Helvetica;
+	text-transform: uppercase;
+	color: white;
+	float: left;
+}
+.site-menu-ul{
+	list-style: none;
+}
+.site-menu-ul li {
+    display: inline;
+    margin-left: 12px;
+    padding: 15px;
+}
+.site-menu-ul a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.site-menu-ul a:hover {
+    color:  royalblue;
+    text-decoration: underline;
+    }
+
+
+.summary {
+text-align: center;
+}    
+.woocommerce-Tabs-panel--description{
+margin-left: 10px;
+margin-right: 40px;
+float: left;
+}
+.woocommerce-Tabs-panel--reviews {
+float: left;
+margin-right: 40px;
+}
+.related.products {
+	float: left;
+}
+.b1 {
+
+}
+.active{
+	background: green;
+}
+.inactive{
+	background: red;
+}
+.tab-button {
+	float: left;
+	width: 200px;
+	height: 25px;
+	color: white;
+	text-align: center;
+}
+.no-display{
+	display: none;
+}
+.fixed-position {
+	width: 200px;
+	height: 200px;
+	background: red;
+	position: fixed;
+	top: 5%;
+	left: 5%;
+}
+.absolute-position {
+	width: 200px;
+	height: 200px;
+	background: red;
+	position: absolute;
+	top: 5%;
+	right: 5%;
+}
+.position-testing {
+	width: 100%;
+	background: blue;
+	height: 400px;
+	position: relative;
+}
